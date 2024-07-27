@@ -12,5 +12,5 @@ This repository contains a Selenium script to automate a demo application for vi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Selenium-DemoApplication.git
+   git clone https://github.com/mdsaifkn/Selenium-DemoApplication.git
    cd Selenium-DemoApplication
